@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alainfinance.payzymobileapp",
+      "sha256_cert_fingerprints": [
+        "FE:B8:8D:1E:D8:E5:78:B4:7D:8A:D4:AF:B7:27:18:AA:8D:40:14:D3:4A:0D:72:AA:6E:49:11:61:CD:2F:D8:48"
+      ]
+    }
+  }
+]
